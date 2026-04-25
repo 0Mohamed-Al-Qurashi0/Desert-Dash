@@ -74,7 +74,7 @@ Add increasing difficulty levels
 Add power-ups
 👨‍💻 Developer
 
-Created by: محمد القرشي
+Created by: Mohammed Al-Qurashi
 
 🏁 License
 
