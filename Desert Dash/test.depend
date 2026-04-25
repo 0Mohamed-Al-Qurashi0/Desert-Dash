@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1777141552 source:e:\c++gamingprojects\test\main.cpp
+	<allegro.h>
+	<cmath>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1777144275 source:e:\c++gamingprojects\desert dash\main.cpp
+	<allegro.h>
+	<cmath>
+	<vector>
+	<string>
+	<cstdlib>
+	<ctime>
+
